@@ -24,3 +24,5 @@ com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Cannot construct 
 2021-10-13 13:07:36 ERROR InstitutoWriter:26 - No se ha encontrado el instituto
 2021-10-13 13:09:02 INFO  InstitutoWriter:15 - Introduce el path al archivo
 2021-10-13 13:09:05 INFO  InstitutoWriter:11 - Federica Montseny
+2021-10-13 13:23:08 INFO  InstitutoWriter:15 - Introduce el path al archivo
+2021-10-13 13:23:39 INFO  InstitutoWriter:11 - Federica Montseny
