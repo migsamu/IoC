@@ -9,8 +9,9 @@ public class Instituto {
 
     private String nombre;
     private String direccion;
-@JsonCreator
-    public Instituto(@JsonProperty("nombre") String nombre,@JsonProperty("direccion") String direccion) {
+
+    @JsonCreator
+    public Instituto(@JsonProperty("nombre") String nombre, @JsonProperty("direccion") String direccion) {
         this.nombre = nombre;
         this.direccion = direccion;
     }
